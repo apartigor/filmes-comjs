@@ -1,0 +1,67 @@
+body {
+  font-family: "Poppins";
+  font-size: 22px;
+  background-color: #39404b;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+header {
+  padding: 185px;
+  background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpTTPxs_1B-8-Qu88FA-chqQAfA99jzOR_xT-IGdoFqYId3atRfpphxmO7bnlnEgMyoQ2_nYbm5d2ni4knz8bAUkaV83g4TypPxQokjQkbdTnPxjvc99DQR4cUPlCVMfqcKZQyUMrgIo4YK1PGuTknObK2zVxhmU6vUv3lLHBYA7pc8C5wpEOBjENb/s1280/o-gato-de-botas-2-capa.jpeg.webp);
+  color: #fff;
+  text-align: center;
+  position: relative;
+  top: -150px;
+  margin: 0;
+  background-size: cover;
+}
+
+main {
+  padding: 0;
+  margin: 50px;
+  display: block;
+}
+
+h4 {
+  color: #fff;
+  position: relative;
+  text-align: start;
+  top: -150px;
+}
+
+.hered h2,
+h5,
+p {
+  color: #fff;
+  position: relative;
+  top: -150px;
+}
+
+.elenco h4,
+li {
+  color: white;
+  text-align: center;
+  top: 20px;
+}
+
+.hered h5 {
+  top: -180px;
+  font-size: 15px;
+}
+.hered p {
+  font-size: 18px;
+  text-align: start;
+}
+
+footer {
+  background-color: #3d4147;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  font-size: 20px;
+  color: white;
+  padding: 25px;
+  margin: 0;
+}
+
